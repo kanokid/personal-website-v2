@@ -39,7 +39,3 @@
         <p><a href="https://kanokid.itch.io" style="color: inherit;">Click here to look at all the games I have made on itch.io!</a></p>
     </li>
     </ul>
-<p>
-    <br>
-    <small><a href="https://github.com/kanokid/bug-free-succotash-website" style="color: inherit;">oh, and if you want, here is the code for my website.</a></small>
-</p>

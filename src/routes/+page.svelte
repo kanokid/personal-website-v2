@@ -32,3 +32,7 @@
         <li>Learn some interpreted language like Python, Ruby, or Lua.</li>
 <!--          <li>Try to sell some of my designs on Tindie.(maybe if I have a good idea, but probably not.)</li> -->
     </ul>
+<p>
+<br>
+    <small><a href="https://github.com/kanokid/bug-free-succotash-website" style="color: inherit;">oh, and if you want, here is the code for my website.</a></small>
+</p>
